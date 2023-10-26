@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.profile{
+  background-color:rgb(180, 186, 168);
+  width: 30rem;
+  height: 35rem;
+  
+}
+.image{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200px;
+}
+.App{
+  width: 50px;
+  height: 50px;
+}
